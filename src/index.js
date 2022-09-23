@@ -8,4 +8,4 @@ import 'primereact/resources/themes/md-dark-indigo/theme.css'
 ReactDOM.render(
     <App />,
     document.querySelector('#root')
-);
+)
